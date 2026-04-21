@@ -137,8 +137,8 @@ On application startup:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/delivery-backend-api.git
-cd delivery-backend-api
+git clone https://github.com/yourusername/delivery-system-api.git
+cd delivery-system-api
 ```
 
 ### 2️⃣ Configure Database
